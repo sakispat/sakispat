@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Athanasios Patralis (sakispat)
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Programming
+- 💞️ I’m looking to collaborate on Junior Developer
+- 📫 How to reach me ...
