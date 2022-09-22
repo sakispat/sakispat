@@ -9,8 +9,8 @@
 ---
 ### Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" align="left" style="padding-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/icons/django/django-plain-wordmark.svg" alt="Django" width="30px" align="left" style="padding-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30px" align="left" style="padding-right: 10px;" />
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/php/php-original.svg" alt="PHP" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="30px" align="left" style="padding-right: 10px;" />
