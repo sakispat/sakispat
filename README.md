@@ -30,7 +30,7 @@
 <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px" align="left" style="padding-right: 10px;" />
 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vuejs" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" align="left" style="padding-right: 10px;" />
 <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="30px" align="left" style="padding-right: 10px;" />
