@@ -8,7 +8,7 @@
 
 ---
 ### Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/icons/python/python-original.svg" alt="Python" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/django/django-plain-wordmark.svg" alt="Django" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30px" align="left" style="padding-right: 10px;" />
 <!--
@@ -42,3 +42,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="30px" align="left" style="padding-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="30px" align="left" style="padding-right: 10px;" />
 -->
+
+# 
