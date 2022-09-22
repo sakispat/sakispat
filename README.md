@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/linux/linux-original.svg" alt="Linux" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/windows10/windows10-original.svg" alt="Windows" width="30px" align="left" style="padding-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/icons/git/git-original.svg" alt="Git" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" align="left" style="padding-right: 10px;" />
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px" align="left" style="padding-right: 10px;" />
 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vuejs" width="30px" align="left" style="padding-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/icons/github/github-original.svg" alt="GitHub" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" align="left" style="padding-right: 10px;" />
 <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="30px" align="left" style="padding-right: 10px;" />
 -->
