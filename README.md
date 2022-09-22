@@ -12,10 +12,9 @@
 ### Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="30px" align="left" style="padding-right: 10px;" />
-![Flask Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-dark-mode-only)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30px" align="left" style="padding-right: 10px; background-color: #fff;" />
 
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/php/php-original.svg" alt="PHP" width="40px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/icons/symfony/symfony-original.svg" alt="Symfony" width="40px" align="left" style="padding-right: 10px;" />
