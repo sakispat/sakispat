@@ -1,16 +1,28 @@
-## Hi there, 👋 I'm Athanasios Patralis
+# Hi there, 👋 I'm Athanasios Patralis
 
+**Junior Software Development / Junior Backend Developer**
 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Junior Developer
-<!-- - 📫 How to reach me ... -->
+- 💞️ I’m looking to working on Developer
 
+---
+### Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/python/python-plain.svg" alt="Python" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/django/django.svg" alt="Django" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/flask/flask.svg" alt="Flask" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/linux/linux-original.svg" alt="Linux" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/windows/windows-original.svg" alt="Windows" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/git/git-original.svg" alt="Git" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/html5/html5-plain.svg" alt="HTML5" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/css3/css3-plain.svg" alt="CSS" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/bootstrap/bootstrap.svg" alt="Bootstrap" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/vue/vue-original-svg" alt="Vue" width="30px" align="left" style="padding-right: 10px;" />
 
-### Software OS Working
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="26px" align="left" />](webdevplaylist)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="26px" align="left" />](webdevplaylist)
-<br /><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/github/github-original.svg" alt="GitHub" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/icons/bash/bash-original.svg" alt="Bash" width="30px" align="left" style="padding-right: 10px;" />
+
 
 
 ### Text Editor Working
@@ -20,19 +32,7 @@
 
 
 ### Program Languages
-- <b>Front-End</b>
- <br /><br />
-  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="26px" align="left" />](webdevplaylist)
-  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="26px" align="left" />](cssplaylist)
-  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="26px" align="left" />](webdevplaylist)
-  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="26px" align="left" />](jsplaylist)
-  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="26px" align="left" />](vueplaylist)
-  <br /><br />
 - <b>Back-End</b>
-  <br /><br />
-  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="26px" align="left" />](pythonplaylist)
-  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" width="26px" align="left" />](djangoplaylist)
-  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" width="26px" align="left" />](flaskplaylist)
   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby" width="26px" align="left" />](rubyplaylist)
   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="Ruby-on-Rails" width="26px" align="left" />](railsplaylist)
   <br /><br />
@@ -40,10 +40,3 @@
   <br /><br />
   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="26px" align="left" />](webdevplaylist)
   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="26px" align="left" />](webdevplaylist)
-<br />
-
-
-### Tools
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="26px" align="left" />](webdevplaylist)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="GitHub" width="26px" align="left" />](webdevplaylist)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="26px" align="left" />](webdevplaylist)
