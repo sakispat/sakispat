@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" align="left" style="padding-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="30px" align="left" style="padding-right: 10px;" />
 <br /><br />
 
 ### CSS Frameworks
@@ -23,7 +23,7 @@
 
 ### Frameworks (Backend and Frontend)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="30px" align="left" style="padding-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="30px" align="left" style="padding-right: 10px;" />
 <br /><br />
 
