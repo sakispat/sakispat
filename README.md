@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to working on Developer
 
+#
 ---
 #
+
 # Languages and Tools
 
 ### Languages Programming
@@ -46,7 +48,5 @@
 <br /><br />
 
 ---
-
 <br />
-
 # 
