@@ -3,7 +3,7 @@
 
   <div id="badges">
      <a href="https://github.com/sakispat/">
-      <img src="https://img.shields.io/badge/GitHab-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHab Badge"/>
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/athanasios-patralis-620b61192/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
