@@ -42,7 +42,7 @@ CSS Frameworks:
 -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="30px" align="left" style="padding-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" align="left" style="padding-right: 10px;" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" align="left" style="padding-right: 10px;" /> -->
 
 <!--
 DevOps:
