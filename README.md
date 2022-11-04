@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40px" align="left" style="padding-right: 10px;" />
 
 ### CSS Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px" align="left" style="padding-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px" align="left" style="padding-right: 10px;" />
 
 ### Frameworks (Backend and Frontend)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="30px" align="left" style="padding-right: 10px;" />
