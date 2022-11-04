@@ -7,7 +7,7 @@
 - 💞️ I’m looking to working on Developer
 
 #
-## Languages and Tools
+# Languages and Tools
 
 ### Languages Programming
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30px" align="left" style="padding-right: 10px;" />
@@ -15,11 +15,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40px" align="left" style="padding-right: 10px;" />
-<br />
+<br /><br />
 
 ### CSS Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px" align="left" style="padding-right: 10px;" />
-<br />
+<br /><br />
 
 ### Frameworks (Backend and Frontend)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="30px" align="left" style="padding-right: 10px;" />
@@ -42,6 +42,7 @@
 ### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" align="left" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" align="left" style="padding-right: 10px;" />
+<br />
 
 ---
 
