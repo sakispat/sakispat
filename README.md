@@ -67,6 +67,10 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
       </td>
       <td width="80px" align="center">
+        <span><strong>Flask</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+      </td>
+      <td width="80px" align="center">
         <span><strong>MySQL</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
       </td>
@@ -74,12 +78,12 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <span><strong>PostgreSQL</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
-        <span><strong>PostgreSQL</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-      </td>
     </tr>
     <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>MongoDB</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+      </td>
       <td width="80px" align="center">
         <span><strong>SQLite</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
