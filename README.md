@@ -79,11 +79,11 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
       </td>
     </tr>
-    <tr valign="top">
+<!--     <tr valign="top">
       <td width="80px" align="center">
         <span><strong>MongoDB</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-      </td>
+      </td> -->
       <td width="80px" align="center">
         <span><strong>SQLite</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
