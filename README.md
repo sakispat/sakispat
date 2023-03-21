@@ -67,6 +67,10 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
       </td>
       <td width="60px" align="center">
+        <span><strong>Bulma</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-original.svg" title="Bulma" alt="Bulma" width="40" height="40"/>
+      </td>
+      <td width="60px" align="center">
         <span><strong>Python</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
       </td>
@@ -82,10 +86,6 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <span><strong>MySQL</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
       </td>
-      <td width="60px" align="center">
-        <span><strong>PostgreSQL</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-      </td>
     </tr>
     <tr valign="top">
       <!--
@@ -94,6 +94,10 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
       </td>
       -->
+      <td width="60px" align="center">
+        <span><strong>PostgreSQL</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+      </td>
       <td width="60px" align="center">
         <span><strong>SQLite</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
