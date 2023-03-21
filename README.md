@@ -142,7 +142,7 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
       </td>
       <td width="80px" align="center">
         <span><strong>Windows</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/windows/windows-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
       </td>
     </tr>
   </tbody>
