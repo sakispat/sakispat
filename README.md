@@ -37,6 +37,14 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
   <tbody>
     <tr valign="top">
       <td width="80px" align="center">
+        <span><strong>Windows</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Linux</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+      </td>
+      <td width="80px" align="center">
         <span><strong>VSCode</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
       </td>
@@ -136,14 +144,6 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
       </td>
       -->
-      <td width="80px" align="center">
-        <span><strong>Linux</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Windows</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
-      </td>
     </tr>
   </tbody>
 </table>
