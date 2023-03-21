@@ -60,12 +60,12 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <span><strong>JavScript</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
       </td>
+    </tr>
+    <tr valign="top">
       <td width="80px" align="center">
         <span><strong>Bootstrap</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
       </td>
-    </tr>
-    <tr valign="top">
       <td width="80px" align="center">
         <span><strong>Python</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
