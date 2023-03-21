@@ -35,7 +35,7 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<table width="450px">
+<table width="600px">
   <tbody>
     <tr valign="top">
       <td width="60px" align="center">
