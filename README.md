@@ -36,53 +36,53 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
 <table width="320px">
   <tbody>
     <tr valign="top">
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Windows</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Linux</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>VSCode</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>HTML5</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>CSS3</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>JavScript</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
       </td>
     </tr>
     <tr valign="top">
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Bootstrap</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Python</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Django</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Flask</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>MySQL</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>PostgreSQL</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
       </td>
@@ -94,15 +94,15 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
       </td>
       -->
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>SQLite</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Bash</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Git</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </td>
