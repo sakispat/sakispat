@@ -44,7 +44,7 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
       </td>
       <td width="60px" align="center">
         <span><strong>Linux</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
       </td>
 <!--       <td width="60px" align="center">
         <span><strong>VSCode</strong></span>
