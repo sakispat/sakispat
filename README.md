@@ -8,11 +8,9 @@
     <a href="https://www.linkedin.com/in/athanasios-patralis-620b61192/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <!--
     <a href="https://gitlab.com/sakispat/">
       <img src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
     </a>
-    -->
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=sakispat&style=flat-square&color=blue" alt=""/>
@@ -46,10 +44,12 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <span><strong>Linux</strong></span>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
       </td>
-<!--       <td width="60px" align="center">
-        <span><strong>VSCode</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-      </td> -->
+      <!--
+        <td width="60px" align="center">
+          <span><strong>VSCode</strong></span>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+        </td> 
+      -->
       <td width="60px" align="center">
         <span><strong>HTML5</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
@@ -84,10 +84,12 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <span><strong>Flask</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
       </td>
-<!--       <td width="60px" align="center">
-        <span><strong></strong></span>
-        <img src="" title="" alt="" width="40" height="40"/>
-      </td> -->
+     <!--
+        <td width="60px" align="center">
+          <span><strong></strong></span>
+          <img src="" title="" alt="" width="40" height="40"/>
+        </td> 
+    -->
     </tr>
     <tr valign="top">
       <td width="60px" align="center">
@@ -111,20 +113,22 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </td>
     </tr>
-    <tr valign="top">
-      <td width="60px" align="center">
-        <span><strong>PHP</strong></span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-      </td>
-      <td width="60px" align="center">
-        <span><strong>Laravel</strong></span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Docker</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-      </td>
-    </tr>
+    <!--
+      <tr valign="top">
+        <td width="60px" align="center">
+          <span><strong>PHP</strong></span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+        </td>
+        <td width="60px" align="center">
+          <span><strong>Laravel</strong></span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+        </td>
+        <td width="80px" align="center">
+          <span><strong>Docker</strong></span>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+        </td>
+      </tr>
+    -->
     <tr valign="top">
       <!--
       <td width="80px" align="center">
