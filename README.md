@@ -25,7 +25,7 @@
 </div>
 
 ### :woman_technologist: About Me:
-I am a Junior Software Development / Junior Backend Developer <img src="https://media1.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="30"> from Greece.
+I am a Junior Software Development and Junior Backend Developer <img src="https://media1.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="30"> from Greece.
 
 - :telescope: I'm looking job as a Junior Software Development / Junior Backend Developer and <br />contributing to frontend and backend for building web applications.
 - :zap: In my free time, I solve problems on my projects and read tech articles.
@@ -37,41 +37,47 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
   <tbody>
     <tr valign="top">
       <td width="60px" align="center">
-        <span><strong>Windows</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
+        <span><strong>VSCode</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
       </td>
       <td width="60px" align="center">
-        <span><strong>Linux</strong></span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+        <span><strong>JetBrains</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" **alt="JetBrains" width="40" height="40"/>
+      </td>
+      <td width="60px" align="center">
+        <span><strong>Bash</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+      </td>
+      <td width="60px" align="center">
+        <span><strong>Git</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </td>
       <!--
         <td width="60px" align="center">
-          <span><strong>VSCode</strong></span>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-        </td> 
-      -->
-      <td width="60px" align="center">
-        <span><strong>HTML5</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-      </td>
-      <td width="60px" align="center">
-        <span><strong>CSS3</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-      </td>
-      <td width="60px" align="center">
-        <span><strong>JavScript</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-      </td>
+          <span><strong>HTML5</strong></span>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+        </td>
+        <td width="60px" align="center">
+          <span><strong>CSS3</strong></span>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+        </td>
+        <td width="60px" align="center">
+          <span><strong>JavaScript</strong></span>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+        </td>
+     -->
     </tr>
     <tr valign="top">
-      <td width="60px" align="center">
-        <span><strong>Bootstrap</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-      </td>
-      <td width="60px" align="center">
-        <span><strong>Bulma</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="40" height="40"/>
-      </td>
+      <!--
+        <td width="60px" align="center">
+          <span><strong>Bootstrap</strong></span>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+        </td>
+        <td width="60px" align="center">
+          <span><strong>Bulma</strong></span>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="40" height="40"/>
+        </td>
+      -->
       <td width="60px" align="center">
         <span><strong>Python</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -84,12 +90,10 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <span><strong>Flask</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
       </td>
-     <!--
-        <td width="60px" align="center">
-          <span><strong></strong></span>
-          <img src="" title="" alt="" width="40" height="40"/>
-        </td> 
-    -->
+      <td width="60px" align="center">
+        <span><strong>Docker</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+      </td>
     </tr>
     <tr valign="top">
       <td width="60px" align="center">
@@ -104,55 +108,46 @@ I am a Junior Software Development / Junior Backend Developer <img src="https://
         <span><strong>SQLite</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
       </td>
-      <td width="60px" align="center">
-        <span><strong>Bash</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
-      </td>
-      <td width="60px" align="center">
-        <span><strong>Git</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </td>
     </tr>
     <!--
-      <tr valign="top">
-        <td width="60px" align="center">
-          <span><strong>PHP</strong></span>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-        </td>
-        <td width="60px" align="center">
-          <span><strong>Laravel</strong></span>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
-        </td>
-        <td width="80px" align="center">
-          <span><strong>Docker</strong></span>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-        </td>
-      </tr>
+    <tr valign="top">
+      <td width="60px" align="center">
+        <span><strong>PHP</strong></span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+      </td>
+      <td width="60px" align="center">
+        <span><strong>Laravel</strong></span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+      </td>
+    </tr>
     -->
     <tr valign="top">
-      <!--
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Java</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
-        <span><strong>JetBrains</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" **alt="JetBrains" width="40" height="40"/>
+      <td width="60px" align="center">
+        <span><strong>C#</strong></span><br>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
+        <span><strong>.NET Core</strong></span>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/>
+      </td>
+      <td width="60px" align="center">
         <span><strong>Azure Cloud</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Amazon Cloud (AWS)</strong></span>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" **alt="AWS" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
       </td>
-      <td width="80px" align="center">
+    <!--
+      <td width="60px" align="center">
         <span><strong>Jekins</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jekins" alt="Jekins" width="40" height="40"/>
       </td>
-
-      <td width="80px" align="center">
+      <td width="60px" align="center">
         <span><strong>Kubernetes</strong></span>
         <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
       </td>
