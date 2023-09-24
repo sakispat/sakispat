@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me:
 I am a Junior Software Development and Junior Backend Developer <img src="https://media1.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="30"> from Greece.
 
-- :telescope: I'm looking job as a Junior Software Development / Junior Backend Developer and <br />contributing to frontend and backend for building web applications.
+- :telescope: I'm looking job as a Junior Software Development / Junior Backend Developer and <br />contributing to backend for building web applications.
 - :zap: In my free time, I solve problems on my projects and read tech articles.
 
 ---
