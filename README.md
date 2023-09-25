@@ -154,6 +154,6 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakispat&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=115A77&fire=DD2727&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sakispat&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&fire=E22929&ring=4EBCE5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakispat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
