@@ -14,7 +14,7 @@
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=sakispat&style=flat-square&color=blue" alt="" />
-  <h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Athanasios Patralis</h1>
+  <h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Thanassis Patralis</h1>
 </div>
 
 ---
