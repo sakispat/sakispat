@@ -5,7 +5,7 @@
   <a href="https://github.com/sakispat/">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
    </a>
-   <a href="https://www.linkedin.com/in/thanassios-patralis-620b61192/">
+   <a href="https://www.linkedin.com/in/thanassis-patralis-620b61192/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="https://gitlab.com/sakispat/">
