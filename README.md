@@ -75,7 +75,7 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
                 <span><strong>SpringBoot</strong></span>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot" width="40" height="40" />
             </td>
-            <td width="70px" align="center">
+<!--             <td width="70px" align="center">
                 <span><strong>C#</strong></span><br>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40" />
             </td>
@@ -83,7 +83,7 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
                 <span><strong>.NET Core</strong></span>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet" alt="DotNet" width="40" height="40" />
             </td>
-        </tr>
+        </tr> -->
         <tr valign="top">
             <td width="70px" align="center">
                 <span><strong>MySQL</strong></span>
