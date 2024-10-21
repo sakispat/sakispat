@@ -1,4 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
 
 <style>
@@ -16,12 +15,14 @@ h1 {
 }
 
 table { width: 500px; }
+    
 table, th, td {
     border: 1px solid #fff;
     border-collapse: collapse; 
 }
 
 tr { vertical-align: top; }
+
 td {
     width: 70px;
     text-align: center;
