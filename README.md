@@ -65,7 +65,7 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
             </td>
             <td width="70px" align="center">
                 <span><strong>Django Rest Framework</strong></span>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" title="Django Rest Framework" alt="Django Rest Framework" width="40" height="40" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" title="Django Rest Framework" alt="Django Rest Framework" width="40" height="40" />
             </td>
             <td width="70px" align="center">
                 <span><strong>Flask</strong></span>
