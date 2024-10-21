@@ -2,30 +2,30 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
 
 <style>
-    #header, #badges { text-align: center; }
+#header, #badges { text-align: center; }
 
-    h1 {
-        text-align: center;
-        height: 300px;
-    }
+h1 {
+    text-align: center;
+    height: 300px;
+}
 
-    #softdev {
-        text-align: center;
-        width: 600px;
-        height: 300px;
-    }
+#softdev {
+    text-align: center;
+    width: 600px;
+    height: 300px;
+}
 
-    table { width: 500px; }
-    table, th, td {
-        border: 1px solid #fff;
-        border-collapse: collapse; 
-    }
+table { width: 500px; }
+table, th, td {
+    border: 1px solid #fff;
+    border-collapse: collapse; 
+}
 
-    tr { vertical-align: top; }
-    td {
-        width: 70px;
-        text-align: center;
-    }
+tr { vertical-align: top; }
+td {
+    width: 70px;
+    text-align: center;
+}
 </style>
 
 
