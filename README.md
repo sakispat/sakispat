@@ -1,39 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
 
-<style>
-#header, #badges { text-align: center; }
-
-h1 {
-    text-align: center;
-    height: 300px;
-}
-
-#softdev {
-    text-align: center;
-    width: 600px;
-    height: 300px;
-}
-
-table { width: 500px; }
-    
-table, th, td {
-    border: 1px solid #fff;
-    border-collapse: collapse; 
-}
-
-tr { vertical-align: top; }
-
-td {
-    width: 70px;
-    text-align: center;
-}
-</style>
-
-
-<div id="header">
+<div style="text-align: center;">
    <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" />
 
-   <div id="badges">
+   <div style="text-align: center;">
        <a href="https://github.com/sakispat/">
            <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
        </a>
@@ -46,14 +16,14 @@ td {
    </div>
 
    <img src="https://komarev.com/ghpvc/?username=sakispat&style=flat-square&color=blue" />
-   <h1>
+   <h1 style="text-align: center; height: 300px;">
        Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> I'm Thanassis Patralis
    </h1>
 </div>
 
 ---
 
-<div id="softdev">
+<div style="text-align: center; width: 600px; height: 300px;">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
@@ -66,46 +36,46 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
-<table>
+<table style="border: 1px solid #fff; border-collapse: collapse; width: 500px;">
     <tbody>
-        <tr>
-            <td>
+        <tr style="vertical-align: top;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
                 <span><strong>VSCode</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="40" />
             </td>
-            <td>
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
                 <span><strong>Git</strong></span><br>
                 <i class="devicon-git-plain colored" style="font-size: 50px;"></i>
             </td>
-            <td>
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
                 <span><strong>Bash</strong></span><br>
                 <i class="devicon-bash-plain" style="font-size: 50px;"></i>
             </td>
         </tr>
-        <tr>
-            <td>
+        <tr style="vertical-align: top;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
                 <span><strong>Python</strong></span>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="100" height="40" />
             </td>
-            <td>
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
                 <span><strong>Django</strong></span><br>
                 <i class="devicon-django-plain" style="font-size: 50px;"></i>
             </td>
-            <td>
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
                 <span><strong>DRF</strong></span>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" title="Django Rest Framework" alt="Django Rest Framework" width="100" height="40"  />
             </td>
-            <td>
+            <td style="border: 1px solid #fff; border-collapse: collapse;">
                 <span><strong>Flask</strong></span><br>
                 <i class="devicon-flask-original" style="font-size: 50px;"></i>
             </td>
         </tr>
-        <tr>
-            <td>
+        <tr style="vertical-align: top;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
                 <span><strong>MySQL</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="40" />
             </td>
-            <td>
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
                 <span><strong>PostgreSQL</strong></span><br>
                 <i class="devicon-postgresql-plain colored" style="font-size: 50px"></i>
             </td>
