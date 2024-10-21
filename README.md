@@ -75,11 +75,11 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
             </td>
             <td>
                 <span><strong>Git</strong></span><br>
-                <i class="devicon-git-plain colored" style="font-size: 50px"></i>
+                <i class="devicon-git-plain colored" style="font-size: 50px;"></i>
             </td>
             <td>
                 <span><strong>Bash</strong></span><br>
-                <i class="devicon-bash-plain" style="font-size: 50px"></i>
+                <i class="devicon-bash-plain" style="font-size: 50px;"></i>
             </td>
         </tr>
         <tr>
@@ -89,7 +89,7 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
             </td>
             <td>
                 <span><strong>Django</strong></span><br>
-                <i class="devicon-django-plain" style="font-size: 50px"></i>
+                <i class="devicon-django-plain" style="font-size: 50px;"></i>
             </td>
             <td>
                 <span><strong>DRF</strong></span>
@@ -97,7 +97,7 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
             </td>
             <td>
                 <span><strong>Flask</strong></span><br>
-                <i class="devicon-flask-original" style="font-size: 40px"></i>
+                <i class="devicon-flask-original" style="font-size: 50px;"></i>
             </td>
         </tr>
         <tr>
@@ -121,4 +121,5 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
 
 ### :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakispat&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&fire=E22929&ring=4EBCE5&currStreakLabel=4ABC4AE2)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakispat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
