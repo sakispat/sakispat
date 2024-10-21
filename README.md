@@ -61,7 +61,7 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
             </td>
             <td width="70px" align="center">
                 <span><strong>Django</strong></span>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40" />
             </td>
             <td width="70px" align="center">
                 <span><strong>Django Rest Framework</strong></span>
