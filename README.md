@@ -39,47 +39,47 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
 <table style="border: 1px solid #fff; border-collapse: collapse; width: 500px;">
     <tbody>
         <tr style="vertical-align: top;">
-            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>VSCode</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="40" />
             </td>
-            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>Git</strong></span><br>
                 <i class="devicon-git-plain colored" style="font-size: 50px;"></i>
             </td>
-            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>Bash</strong></span><br>
                 <i class="devicon-bash-plain" style="font-size: 50px;"></i>
             </td>
         </tr>
         <tr style="vertical-align: top;">
-            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>Python</strong></span>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="100" height="40" />
             </td>
-            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>Django</strong></span><br>
                 <i class="devicon-django-plain" style="font-size: 50px;"></i>
             </td>
-            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>DRF</strong></span>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" title="Django Rest Framework" alt="Django Rest Framework" width="100" height="40"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" title="Django Rest Framework" alt="Django Rest Framework" width="100" height="40" />
             </td>
-            <td style="border: 1px solid #fff; border-collapse: collapse;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>Flask</strong></span><br>
                 <i class="devicon-flask-original" style="font-size: 50px;"></i>
             </td>
         </tr>
         <tr style="vertical-align: top;">
-            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>MySQL</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="40" />
             </td>
-            <td style="border: 1px solid #fff; border-collapse: collapse; width: 70px;  text-align: center;">
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>PostgreSQL</strong></span><br>
                 <i class="devicon-postgresql-plain colored" style="font-size: 50px"></i>
             </td>
-            <td>
+            <td style="border: 1px solid #fff; border-collapse: collapse; width: 90px; text-align: center;">
                 <span><strong>SQLite</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="40" />
             </td>
