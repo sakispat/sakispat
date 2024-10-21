@@ -39,10 +39,12 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
                 <span><strong>VSCode</strong></span>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />
             </td>
+         <!--
             <td width="70px" align="center">
                 <span><strong>JetBrains</strong></span>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" **alt="JetBrains" width="40" height="40" />
             </td>
+         -->
             <td width="70px" align="center">
                 <span><strong>Git</strong></span>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
@@ -62,8 +64,12 @@ I am a Junior Software Development and Junior Backend Developer <img src="https:
                 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />
             </td>
             <td width="70px" align="center">
+                <span><strong>Django Rest Framework</strong></span>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" title="Django Rest Framework" alt="Django Rest Framework" width="40" height="40" />
+            </td>
+            <td width="70px" align="center">
                 <span><strong>Flask</strong></span>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40" />
             </td>
         </tr>
      <!-- 
