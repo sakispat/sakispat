@@ -8,7 +8,7 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 ![](https://github-profile-trophy.vercel.app/?username=sakispat&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/@Thanassis](https://www.linkedin.com/in/thanassis-patralis-620b61192/))<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanassis-patralis-620b61192)<br>
 
 ---
 # 💻 Tech Stack:
