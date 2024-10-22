@@ -67,9 +67,6 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakispat&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sakispat&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
