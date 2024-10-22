@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Hi 👋, I'm Thanassis Patralis</h1>
+# Hi 👋, I'm Thanassis Patralis
 
-# 💫 About Me:
+## 💫 About Me:
 My name is Thanassis Patralis and I am Software Developer, specializing in coding languages such as Python, and Frameworks. With a passion for programming, I am constantly seeking opportunities to enhance my skills and expand my knowledge in the field. I am active member of GreekLUG community, where I engage in discussions and collaborate with fellow developers to stay up-to-date with the latest industry trends and best practices.
 
 ---
