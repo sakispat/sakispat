@@ -39,18 +39,22 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white)
 
+<!--
 ### Servers
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
+-->
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
+<!--
 ### Git CI/CD
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+--->
 
 ### Others:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
@@ -65,10 +69,6 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 ![](https://github-readme-stats.vercel.app/api?username=sakispat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakispat&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200&fire=E22929&ring=4EBCE5&currStreakLabel=4ABC4AE2)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakispat&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakispat&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sakispat&label=Profile%20Views&color=1&icon=4&pretty=true)](https://github.com/sakispat)
