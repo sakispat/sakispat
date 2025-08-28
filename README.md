@@ -66,7 +66,7 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sakispat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakispat&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200&fire=E22929&ring=4EBCE5&currStreakLabel=4ABC4AE2)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sakispatralis&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Tue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakispat&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
