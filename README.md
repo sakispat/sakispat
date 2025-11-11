@@ -19,28 +19,23 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) -->
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+<!--
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+-->
 
+<!--
 ### CSS Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=plastic&logo=bulma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-
-<!--
-### Mobile
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white)
-
-### Servers
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 -->
 
 ### Databases
@@ -48,12 +43,12 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
-<!--
+
 ### Git CI/CD
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
---->
+<!-- ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) -->
+
 
 ### Others:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
@@ -65,8 +60,8 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakispat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=sakispatralis&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Tue)](https://git.io/streak-stats)
+![Thanasis GitHub stats](https://github-readme-stats.vercel.app/api?username=sakispat&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sakispatralis&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Tue)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakispat&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
