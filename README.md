@@ -25,7 +25,8 @@ My name is Thanassis Patralis and I am Software Developer, specializing in codin
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+<!-- ![PyQt5](https://img.shields.io/badge/PyQt5-5.15.8-blue) -->
+<!-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) -->
 <!--
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
